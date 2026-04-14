@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalyan Limbu</h1>
-<h3 align="center">I am a third-year computer science student at Hong Kong Polytechnic University, passionate about exploring the realms of coding, and building robust applications.</h3>
+<h3 align="center">I am a final-year computer science student at Hong Kong Polytechnic University, passionate about exploring the realms of coding, and building robust applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
